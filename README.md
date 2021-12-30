@@ -11,4 +11,4 @@ To run a script
 -The app will ask a start and end days, then the app will given the results, what asked from the assignment.  
 -Enjoy :)  
    
-For the further information or any questions please email me: jarska90@gmail.com
+For the further information or any questions, please email me: jarska90@gmail.com
