@@ -6,8 +6,6 @@ from urllib.request import urlopen
 import json
 
 # -----------------------------------------------------------
-# Vincit-Rising Star Pre-assignment
-#
 # (C) 2021 Jarno Heinonen
 # email jarska90@gmail.com
 # -----------------------------------------------------------
