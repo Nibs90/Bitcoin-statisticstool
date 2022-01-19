@@ -1,8 +1,3 @@
-# Rising-Star-Pre-assignment
-The pre-assignment for Vincit
-
-Welcome to my pre-assignment work.  
-As Scrooge wanted, the application will give him the asked infos.  
 The application is made by Python
 
 To run a script  
